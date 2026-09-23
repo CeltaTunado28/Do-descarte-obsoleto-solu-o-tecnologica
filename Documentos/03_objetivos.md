@@ -10,11 +10,11 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivo geral
 
-`[]`
+`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
 
 ## Objetivos específicos
 
-1. `[Identificar os principais impactos ambientais associados ao descarte inadequado de resíduos eletrônicos e seus componentes.]`
+1. `[preencher]`
 2. `[preencher]`
 3. `[preencher]`
 4. `[opcional]`
