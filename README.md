@@ -1,0 +1,1 @@
+# Do-descarte-obsoleto-solu-o-tecnologica
