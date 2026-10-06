@@ -36,7 +36,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-|`[Daniel Jesus]` | `[Realização de perguntas]` |
+|`[João Victor Sales da Silva]` | `[Realização de perguntas]` |
 |`[Isabella Cristina Nascimento Da Cruz Silva]` | `[Validação]` |
 |`[Julia Alves Kiura]` | `[Validação]` |
 |`[ Lionel Gonçalves Dantas]` | `[Validação]` |
