@@ -8,7 +8,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 * Título do artigo: `\[preencher]`
 * Versão revisada: `\[número]`
-* Data: `\[dd/mm/aaaa]`
+* Data: `\[06/10/2026]`
 * Responsável pela conferência final: `\[preencher]`
 
 ## Revisão científica
