@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[[Daniel Jesus, Isabella Cristina Nascimento da Cruz Silva, Julia Alves Kiura, Lionel Gonçalves Dantas]`
+- Integrantes: `[[João Victor Sales da Silva, Isabella Cristina Nascimento da Cruz Silva, Julia Alves Kiura, Lionel Gonçalves Dantas]`
 - Data: `[22/09/2026]`
 
 ## Preenchimento
