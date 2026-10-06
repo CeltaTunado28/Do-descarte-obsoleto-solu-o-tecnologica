@@ -6,7 +6,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `\[preencher]`
+* Título do artigo: `\[Do descarte obsoleto a solução tecnológica.]`
 * Versão revisada: `\[v2.0]`
 * Data: `\[06/10/2026]`
 * Responsável pela conferência final: `\[Lionel G. Dantas]`
@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[nome]`|
+|`\[05-Matriz de síntese]`|`\[Sem acentuação]`|`\[Acentos colocados com sucesso]`|`\[Lionel G. Dantas]`|
 
 
 
