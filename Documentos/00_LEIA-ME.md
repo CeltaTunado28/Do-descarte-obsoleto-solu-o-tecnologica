@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `[Cursos: Analise e Desenvolvimento de Sistemas e Ciência da Computação. Disciplina: Design Profissional]`
 - Professor ou orientador: `[Isabella Luiza dos Santos Souza]`
 - Grupo: `[preencher]`
-- Integrantes: `[Daniel Jesus, Isabella Cristina Nascimento da Cruz Silva, Julia Alves Kiura, Lionel Gonçalves Dantas]`
+- Integrantes: `[Isabella Cristina Nascimento da Cruz Silva, Julia Alves Kiura, Lionel Gonçalves Dantas, João Victor Sales da Silva]`
 - Data de início: `[22/09/2026]`
 
 
