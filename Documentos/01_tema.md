@@ -54,7 +54,7 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Daniel Jesus]` | `[Discussão do tema e validação]` |
+| `[João Victor Sales da Silva]` | `[Discussão do tema e validação]` |
 | `[Isabella Cristina Nascimento Da Cruz Silva]` | `[Discussão do tema, e preenchimento das perguntas]` |
 | `[Julia Alves Kiura]` | `[Discussão do tema, e preenchimento das perguntas]` |
 | `[ Lionel Gonçalves Dantas]` | `[Discussão do tema e validação]` |
