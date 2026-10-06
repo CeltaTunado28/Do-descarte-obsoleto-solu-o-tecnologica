@@ -7,9 +7,9 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 ## Identificação
 
 * Título do artigo: `\[preencher]`
-* Versão revisada: `\[número]`
+* Versão revisada: `\[v2.0]`
 * Data: `\[06/10/2026]`
-* Responsável pela conferência final: `\[preencher]`
+* Responsável pela conferência final: `\[Lionel G. Dantas]`
 
 ## Revisão científica
 
